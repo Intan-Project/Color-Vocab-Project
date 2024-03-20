@@ -1,0 +1,27 @@
+p{
+    color: rgb(21, 21, 106);
+}
+
+img{
+    width: 200px; height: 200px;
+}
+
+.Turquoise{
+    color: rgb(68, 167, 186);
+}
+
+#id-selector-demo{
+    color: rgba(137, 43, 226, 0.596);
+}
+
+p[value="4"]{
+    color: rgba(227, 155, 155, 0.475);
+}
+
+.olive{
+    color: rgb(102, 136, 9);
+}
+
+*{
+    font-weight: normal;
+}
